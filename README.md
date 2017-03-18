@@ -1,2 +1,1 @@
-# flask_praktice
-# flask_praktice
+# flask_practice
